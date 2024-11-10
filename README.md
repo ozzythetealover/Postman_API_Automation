@@ -10,7 +10,6 @@ Postman uygulaması kullanılarak https://restful-booker.herokuapp.com uygulamas
    ```
 
 ## Usage
-**Run the program**
    İndirilen dosya postman aracılığı ile açılır.
    Collection üzerine tıklanır.
    Run butonuna basılır.
